@@ -7,10 +7,10 @@ Stan, a powerful Bayesian programming language created by Andrew Gelman and coll
 
 In this tutorial, you'll learn to:
 
-Simulate data
-Perform Bayesian inference
-Analyze model fit
-These steps will equip you with essential skills for applying Bayesian inference to dynamic systems.
+- Simulate data
+- Perform Bayesian inference
+- Analyze model fit
+- These steps will equip you with essential skills for applying Bayesian inference to dynamic systems.
 
 ## Getting Started
 To begin, use the R and Stan files provided in this repository. They will guide you through each step of the process.
